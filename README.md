@@ -1,2 +1,92 @@
 # HTML
 Web development
+<html>
+	
+	<head>
+	<title>Power to gas</title> 
+	
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	</head>
+	
+	<body>
+	
+	<img src="energylogo.jfif" width="200" height="300" align="right">
+	 <h1>Power-to-gas</h1>
+	<hr>
+	<h2>From Principedia, learning all I can learn about Energy</h2>
+	
+	
+		<p><b>Power-to-gas</b> (often abbreviated <b>P2G</b>) is a technology that uses 
+		electrical power to produce a gaseous 
+		<a href="https://en.wikipedia.org/wiki/Fuel" title="Fuel">fuel</a>.
+		<p>The video below from the IET institute for energy technology shows a systematic
+		view of a power to gas system. </p>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/xMU_ipvHb7A"
+		frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+		gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+		<p>In December 2013, ITM Power, Mainova, and NRM Netzdienste Rhein-Main GmbH began 
+		injecting hydrogen into the German gas
+		distribution network using ITM Power HGas, which is a rapid response proton exchange membrane 
+		electrolyser plant. The power consumption of the electrolyser is 315 kilowatts.
+		It produces about 60 cubic meters per hour of hydrogen and thus in one hour can feed 
+		3,000 cubic meters of hydrogen-enriched natural gas into the network.</p>
+		<img src="pvg.png" width="700" height="300" >
+
+		<p>On August 28, 2013, E.ON Hanse, Solvicore, and Swissgas inaugurated a commercial power-to-gas unit in 
+		Falkenhagen, Germany. The unit, which has a capacity of two megawatts, can produce 360 cubic meters of
+		 hydrogen per hour. The plant uses wind power and Hydrogenics electrolysis equipment to
+		 transform water into hydrogen, which is then injected into the existing regional natural gas
+		 transmission system. Swissgas, which represents over 100 local natural gas utilities, is a partner in 
+		 the project with a 20 percent capital stake and an agreement to purchase a portion of the gas
+		 produced</p>
+		 <hr>
+		
+		<h3>Top 3 facts about power to gas</h3>
+		<ol>
+		<li>PtG allows the conversion of volatile electricity into renewable, synthetic gases (H₂ or SNG) 
+		with an unmatched low carbon footprint which can be stored, transported
+		and commercialized for mobility</li>
+		<li>PtG decarbonizes the gas grid by replacing fossil natural gas</li>
+		<li>PtG adds flexibility to energy systems and therefore enables efficient
+		integration of high shares of volatile renewables into energy markets</li>
+		
+		</ol>
+		<p ><a href="https://www.renewableenergyworld.com/"> Global trends</a> </a> within the renewable energy space continue
+		to be positive for the growing importance and expansion of PtG.</p>
+		
+		<p>While PtG technology has been around for some time it is still considered a “new” and disruptive technology.
+		Below are just two examples on the use of PtG that provide strong validation for its 
+		expanded use&#58;</p>
+		
+		
+			<ul>
+			
+			<li>In June 2013, Audi announced its opening of a 6-MW PtG 
+			facility in Germany making it the first automaker to 
+			develop a chain of sustainable energy carriers.</li>
+			
+			<li>Construction of Japan’s first PtG plant was initiated in July 2017 
+			as a key part of its efforts to reduce CO2 emissions.</li>
+			
+			
+			</ul>
+		<table>
+			<thead>
+				<tr>
+				<th>Country</th>
+				<th>Revenue</th>
+				</tr>
+			
+			</thead>
+		
+		 </table>
+	</body>
+	
+
+
+</html>
